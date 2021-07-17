@@ -4,7 +4,7 @@
 #Data Science and Business Analytics Intern
 # Task1 : Prediction Using Supervised ML
 #Predict the percentage of Student Based on Number of Hours Studied (Simple Linear Regression)
-#Author: Kolavennu Jagadeesh
+# ========= Author: Kolavennu Jagadeesh =======================
 
 install.packages("ggplot2")
 
